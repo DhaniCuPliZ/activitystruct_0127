@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Struct1Pemdas", "Struct1Pem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Struct2Pemdas", "Struct2Pemdas\Struct2Pemdas.vcxproj", "{5D7FCEBD-EEC8-44A1-86B9-CCE486DF9C3F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sturct3Pemdas", "Sturct3Pemdas\Sturct3Pemdas.vcxproj", "{72F28E04-147B-4798-9871-E71173690213}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{5D7FCEBD-EEC8-44A1-86B9-CCE486DF9C3F}.Release|x64.Build.0 = Release|x64
 		{5D7FCEBD-EEC8-44A1-86B9-CCE486DF9C3F}.Release|x86.ActiveCfg = Release|Win32
 		{5D7FCEBD-EEC8-44A1-86B9-CCE486DF9C3F}.Release|x86.Build.0 = Release|Win32
+		{72F28E04-147B-4798-9871-E71173690213}.Debug|x64.ActiveCfg = Debug|x64
+		{72F28E04-147B-4798-9871-E71173690213}.Debug|x64.Build.0 = Debug|x64
+		{72F28E04-147B-4798-9871-E71173690213}.Debug|x86.ActiveCfg = Debug|Win32
+		{72F28E04-147B-4798-9871-E71173690213}.Debug|x86.Build.0 = Debug|Win32
+		{72F28E04-147B-4798-9871-E71173690213}.Release|x64.ActiveCfg = Release|x64
+		{72F28E04-147B-4798-9871-E71173690213}.Release|x64.Build.0 = Release|x64
+		{72F28E04-147B-4798-9871-E71173690213}.Release|x86.ActiveCfg = Release|Win32
+		{72F28E04-147B-4798-9871-E71173690213}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
