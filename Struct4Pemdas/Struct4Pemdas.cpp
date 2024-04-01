@@ -34,5 +34,9 @@ int main() {
 		cout << endl;
 	}
 for (int i = 0; i < 3; i++) {
+	cout << endl;
+	cout << "Data ke-" << (i + 1) << ":" << endl;
+	cout << "\n NIM : " << mhs.nim;
+	cout << "\n Nama : " << mhs.nama;
 
 }
